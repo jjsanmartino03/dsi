@@ -1,0 +1,14 @@
+title Registrar Guía
+
+actor ActorGuia
+ActorGuia->IU:datos
+IU->Controller:ValidarDatos(datos)
+Controller->ValidadorAFIP:BuscarCuit(cuit)
+ValidadorAFIP->Contribuyente:<<create>>
+Controller<--ValidadorAFIP:Contribuyente
+Controller->Controller:CompararDatos
+Controller->Guia:<<create>>
+IU<--Controller:PedirContraseña
+IU->Controller:Contraseña
+Controller->Persistencia:GuardarGuia(guia)
+
