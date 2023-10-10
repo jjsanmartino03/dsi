@@ -2,7 +2,15 @@
 
 ## Procesos de Negocio
 
+- ¿Qué ventajas me da este proceso comparado con el proceso manual?
+
+### Control de productos
+
 ![Diagrama de BPMN](controles.png)
+
+### Definición de características y valores esperados
+
+![definiciones-bpmn.png](definiciones-bpmn.png)
 
 ## Requerimientos
 
@@ -26,3 +34,27 @@
 ### No Funcionales
 
 1. Eliminar la duplicidad de los datos y la necesidad de reingresarlos en diferentes ocasiones
+
+## Casos de Uso
+
+```mermaid
+    class Caracteristica{
+        
+    }
+
+    class Producto{
+
+    }
+
+    class Control{
+        
+    }
+```
+
+## Diagrama de Clases
+
+## Interfaces
+
+## Descripciones de Casos de Uso
+
+## Diagramas de Secuencia
