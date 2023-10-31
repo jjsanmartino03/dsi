@@ -11,4 +11,8 @@ Este trabajo se encuentra en la carpeta [tp0-diagnostico](./trabajos-practicos/t
 
 Mi solución para el turnero se encuentra en la carpeta [tp-turnero](./trabajos-practicos/tp-turnero).
 
+## Trabajo Práctico Testing Estacionamiento
+
+Mi primera iteración del testing se encuentra en el archivo [TP-PruebasAceptacion-DisenoPruebas.pdf](./trabajos-practicos/testing/TP-PruebasAceptacion-DisenoPruebas.pdf)
+
 > Julián Sanmartino
