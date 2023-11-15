@@ -13,6 +13,6 @@ Mi solución para el turnero se encuentra en la carpeta [tp-turnero](./trabajos-
 
 ## Trabajo Práctico Testing Estacionamiento
 
-Mi primera iteración del testing se encuentra en el archivo [TP-PruebasAceptacion-DisenoPruebas.pdf](./trabajos-practicos/testing/TP-PruebasAceptacion-DisenoPruebas.pdf)
+Mi primera y segunda iteración del testing se encuentra en el archivo [TP-PruebasAceptacion-Iteracion-1-y-2.pdf](trabajos-practicos/tp-testing/TP-PruebasAceptacion-Iteracion-1-y-2.pdf)
 
 > Julián Sanmartino
